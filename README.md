@@ -1,1 +1,5 @@
 # ids-D7
+
+https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week?fbclid=IwY2xjawVdmGJleHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkATAAAR-CRihsSUnCKnc_U_fSt7GqZkqWjh9r39k3T6DnX3CsJRLf2jqioqvGBSuqkw_aem_8MIK96uQxHNvx2zGwVMZwg
+
+https://www.kaggle.com/datasets/darrylljk/spotify-tracks?fbclid=IwY2xjawVdmGRleHRuA2FlbQIxMQBwZG9mBHNydGMGYXBwX2lkATAAAR8xaDSW1aacm7ednum7-6fIRU6equP8laZMZuaWRcx-W_K47dc0xLb53Ny7DQ_aem_915nBeB_SXQMVwwawnAT6Q
